@@ -59,7 +59,7 @@ We welcome contributions from the community. If you have any suggestions or impr
 
 ## 📧 Contact
 
-For any queries or support, reach out to us at [tusharkantabehera85@gmail.com](mailto:tusharkantabehera85@gmail.com).
+For any queries or support, reach out to us at [mindshieldacademy85@gmail.com](mailto:mindshieldacademy85@gmail.com).
 
 ---
 
