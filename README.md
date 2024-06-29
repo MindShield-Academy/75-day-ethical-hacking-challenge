@@ -17,20 +17,7 @@ Welcome to the **75-Day Ethical Hacking Challenge**! This course is designed for
 - **Day 1**: Overview of Ethical Hacking
 - **Day 2**: Setting Up Your Lab
 - **Day 3**: Networking Basics
-- **Day 4**: Reconnaissance and Footprinting
-- **Day 5**: Scanning Networks
-- **Day 6**: Enumeration
-- **Day 7**: Vulnerability Analysis
-
-### Week 2: System Hacking
-- **Day 8**: Introduction to System Hacking
-- **Day 9**: Password Cracking Techniques
-- **Day 10**: Malware and Trojans
-- **Day 11**: Privilege Escalation
-- **Day 12**: Hiding Files and Covering Tracks
-- **Day 13**: System Hacking Practical
-- **Day 14**: Review and Recap
-
+  
 ... (coming soon.......)
 
 ## 📚 Resources
