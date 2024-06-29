@@ -9,7 +9,7 @@ Welcome to the **75-Day Ethical Hacking Challenge**! This course is designed for
 - **Daily Updates**: New content and challenges posted every day
 - **Hands-On Exercises**: Practical tasks to apply your knowledge
 - **Resources and Tools**: Curated list of essential tools and resources
-- **Community Support**: Join our [Telegram community](https://telegram.com/invite/your-link) for discussions and help
+- **Community Support**: Join our [WhatsApp community](https://lnkd.in/g7q5eWEq) for discussions and help
 
 ## 📅 Course Outline
 
