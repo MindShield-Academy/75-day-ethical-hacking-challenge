@@ -1,6 +1,7 @@
-# 🛡️ 75-Day Ethical Hacking Challenge
+![logo](https://github.com/MindShield-Academy/75-day-ethical-hacking-challenge/blob/main/MindShield%20Academy%20Banner.png)
+<h1 align="center">🛡️ 75-Day Ethical Hacking Challenge</h1>
 
-![Ethical Hacking](https://example.com/your-image.jpg)
+
 
 Welcome to the **75-Day Ethical Hacking Challenge**! This course is designed for anyone interested in learning about ethical hacking, cybersecurity, and penetration testing. Whether you're a beginner or looking to enhance your skills, this comprehensive guide will provide you with daily tasks and resources to become proficient in ethical hacking.
 
