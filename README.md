@@ -15,9 +15,9 @@ Welcome to the **75-Day Ethical Hacking Challenge**! This course is designed for
 ## 📅 Course Outline
 
 ### Week 1: Introduction to Ethical Hacking
-- **Day 1**: Overview of Ethical Hacking
-- **Day 2**: Setting Up Your Lab
-- **Day 3**: Networking Basics
+- **Day 1**: [Introduction to Cyber Security and Ethical Hacking](https://github.com/MindShield-Academy/75-day-ethical-hacking-challenge/blob/main/Day%201%20-%20Introduction.md)
+- **Day 2**: [Lab Setup and Careers in Cyber Security](https://github.com/MindShield-Academy/75-day-ethical-hacking-challenge/blob/main/Day%202%20-%20Lab%20setup%20and%20Career.md)
+- **Day 3**: [Networking Fundamentals](https://github.com/MindShield-Academy/75-day-ethical-hacking-challenge/blob/main/Day%203%20-%20Networking%20Fundamentals.md)
   
 ... (coming soon.......)
 
